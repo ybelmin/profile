@@ -109,4 +109,39 @@ caption {
   background-color: #999999;
 }
 
+#sidebar {
+  background-color: #384047;
+  position: fixed;
+  left: 0px;
+  top: 0px;
+  bottom: 0px;
+  width: 120px;
+  text-align: center;
+}
+#page-content {
+  margin-left: 300px;
+}
+
+#sidebar li {
+  display: list-item;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  padding: 0;
+}
+
+#sidebar ul {
+  list-style: none;
+  padding-left: 0px;
+}
+
+#sidebar a {
+  text-decoration: none;
+  font-size: 25px;
+  color: #788188;
+}
+
+#sidebar a:hover  {
+  color: white;
+}
+
 
