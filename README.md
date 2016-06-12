@@ -4,7 +4,7 @@ Here is a (little) static [profile page] (http://ybelmin.github.io/profile/) tha
 
 It was worth mentionning!
 
-<img src="https://github.com/ybelmin/profile/blob/gh-pages/images/resized-signature.jpg" alt="yohan-hand-written">
+<img src="https://github.com/ybelmin/profile/blob/gh-pages/images/signature.jpg" width="100" alt="yohan-hand-written">
 
 <img src="https://github.com/ybelmin/profile/blob/gh-pages/images/avatar_profile_image.png" alt="yohan-avatar">
 
